@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="mycss.css">
+	<script src="popup.js"></script>
+</head>
+<body>
+    <div >
+        <h1>WalkWithMe</h1>
+			<div id="content">
+				<div class="row">
+						<div class="left" >
+							<h1>
+								<a id="news" style="cursor: pointer;">News</a></h1>
+						</div>
+						<div class="right" >
+							<h1><a id="rem" style="cursor: pointer;">Reminder</a></h1>
+						</div>
+				</div>
+				<div class="row">          
+					<div class="left">
+						<h1><a id="game" style="cursor: pointer;">Games</a></h1>
+					</div>
+					<div class="right">
+						<h1><a id="puzz" style="cursor: pointer;" >Puzzles</a></h1>
+					</div>
+				</div>
+			</div>
+    </div>
+
+<!-- reminder -->
+
+<div id="reminder" style="position : relative ;display: none; min-width: 314px; min-height: 200px;"> 
+	<script src="popup2.js"></script>
+	<div id="stop" style="color: darkred; position: absolute; left:5px;">
+		X
+	</div>
+<div id="water">
+<img id="gears" src="gears.png" height="16" width="16" align="right" />
+
+<center><h1>Remind Me To Drink Water Every</h1></center>
+<center>
+<input id='freq' type='text' size="3" style="text-align:center; font-size: 2em;font-weight: bold;
+				border: 0; outline: 0;background: transparent; border-bottom: 2px solid black;"/>
+<h1>Minutes</h1> 
+
+<input id='waterBtn' type='button' value='Remind Me!' >
+<br />
+<br />
+<input id='stopBtn' type='button' value='Stop!'>
+</div>
+<div id="options" style="display:none;">
+<img id="back" src="back.png" height="16" width="16" align="right" />
+<center><h1 >Options</h1></center>
+<center><h3>Select a Sound:</h3>
+	<select id="sound"  style="position: relative; left:5px;">
+		<option value="Default.mp3">Default</option>
+		<option value="Aurora.mp3">Aurora</option>
+		<option value="Beat.mp3">Beat</option>
+		<option value="Bling.mp3">Bling</option>
+		<option value="Bling2.mp3">Bling 2</option>
+		<option value="Chime.mp3">Chime</option>
+		<option value="Mamba.mp3">Mamba</option>
+		<option value="SingleBeep.mp3">Single Beep</option>
+		<option value="ThreeBeep.mp3">Three Beeps</option>
+		<option value="Whistle.mp3">Whistle</option>
+	</select>
+	<img id="testSound" src="sound.png" height="16" width="16" style="position: relative; left:7px; top:3px;"/>
+	<br />
+	<h3>Notification Type:</h3>
+		<form style="position: relative; bottom:10px;">
+			<input type="radio" name='noteType' id="optsAudio"  />Audio &nbsp;
+			<input type="radio" name='noteType' id="optsVisual"  />Visual &nbsp;
+			<input type="radio" name='noteType' id="optsBoth"  checked />Both
+		</form> 
+			<h4>Display Notification Until Exited:</h4><input type = "checkbox" id="keepNote" style="position: relative; left:125px; bottom:32px;">
+	<input id="setOpts" type="button" value="Set"  style="position: relative; top:10px;"/>
+	<br />
+</center>
+</div>
+	<div id="warn">
+	</div>
+</center>
+	
+</div>
+
+<!-- reminder end -->
+
+</body>
+</html>

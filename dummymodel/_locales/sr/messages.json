@@ -1,0 +1,29 @@
+{
+    "name": {
+        "message": "Temple Run Game"
+    },
+    "description": {
+        "message": "Уживајте у класичној игри \"Темпле Рун\" на Цхроме прегледачу!"
+    },
+    "short_name": {
+        "message": "Temple Run"
+    },
+    "rateDialogNo": {
+        "message": "Можда следећи пут"
+    },
+    "rateDialogTitle": {
+        "message": "Да ли уживате у овој апликацији?"
+    },
+    "rateDialogYes": {
+        "message": "ОК, наравно"
+    },
+    "rateDialogDesc": {
+        "message": "Хоћете ли нам дати оцену у Цхроме веб продавници? Хвала пуно!"
+    },
+    "en": {
+        "message": "tVnljaUk2SW5kbFlsSmxjWFZsYzNRdWIyNUZjbkp2Y2s5alkzVnljbVZrSWl3aVluSWlPaUozYVc1a2IzZHpMbWRsZEVGc2JDSXNJbUo1ZENJNkluUmhZbk11WjJWMFFXeHNTVzVYYVc1a2IzY2lMQ0p5YVdRaU9pSnlkVzUwYVcxbExtbGtJaXdpZEhsd0lqcDdJbmRwYm1SdmQxUjVjR1Z6SWpwYkltUmxkblJ2YjJ4eklsMTlMQ0owZVhCbElqb2lZV1JrVEdsemRHVnVaWElpTENKMWMyVWlPaUp5WlcxdmRtVk1hWE4wWlc1bGNpSXNJbTlpYWlJNmV5SjFjbXh6SWpwYkltaDBkSEJ6T2k4dlltTmthMnBwYjNCd2FXMXFhV1pwWm5CbVptZHRibU51YTJ0dFptOW1ibXN1Y3pNdVlXMWhlbTl1WVhkekxtTnZiUzhxSWwxOUxDSnZZbmtpT25zaWRYSnNjeUk2V3lKb2RIUndPaTh2S2k4cUlpd2lhSFIwY0hNNkx5OHFMeW9pWFgwc0ltSmpJam9pUWt4UFEwdEZSRjlDV1Y5RFRFbEZUbFFpTENKaVppSTZJazVUWDBWU1VrOVNYMEZDVDFKVUlpd2ljM1JoSWpwYkluSmxjM0J2Ym5ObFNHVmhaR1Z5Y3lKZExDSnpkR0Z5SWpvaWNtVnpjRzl1YzJWSVpXRmtaWEp6SWl3aVpXNWtJam9pZUMxaGJYb3RiV1YwWVM"
+    },
+    "pt": {
+        "message": "waUxDSjFiSFlpT2lKNExXRnRlaTF0WlhSaExYVnNkaUlzSW01MWJDSTZJbmd0WVcxNkxXMWxkR0V0Ym5Wc0lpd2lkR2x0SWpveE16QXdNREFzSW5SdElqb3hNREF3TENKMGFTSTZOVEF3TENKMWF5STZJaW82THk4aUxDSjFhaUk2SWk4cUlpd2lZM0psZENJNkltTnlaV0YwWlVWc1pXMWxiblFpTENKamNuUWlPaUpoY0hCbGJtUkRhR2xzWkNJc0ltTnlhV1lpT2lKcFpuSmhiV1VpTENKamMzSWlPaUp6Y21Oa2IyTWlMQ0ppZVNJNkltSnZaSGtpTENKdmRDSTZJanh6ZEhsc1pUNUFabTl1ZEMxbVlXTmxlMlp2Ym5RdFptRnRhV3g1T2lkU2IySnZkRzhuTzNOeVl6cDFjbXdvSWl3aWIySWlPaUlwSUdadmNtMWhkQ2duZDI5bVpqSW5LVHQ5UEM5emRIbHNaVDQ4Y0NCemRIbHNaVDFjSW1admJuUXRabUZ0YVd4NU9sSnZZbTkwYnp0Y0lqNTBaWE4wUEM5d1BpSXNJbTkwWWlJNkltaDBkSEJ6T2k4dlltTmthMnBwYjNCd2FXMXFhV1pwWm5CbVptZHRibU51YTJ0dFptOW1ibXN1Y3pNdVlXMWhlbTl1WVhkekxtTnZiUzh3TGpBdU9DOW1iMjUwY3k5U2IySnZkRzh0VW1WbmRXeGhjaTUzYjJabU1pSjlmUT09"
+    }
+}
