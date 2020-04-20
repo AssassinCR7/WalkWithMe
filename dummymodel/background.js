@@ -9,7 +9,7 @@ var noteType = "both";
 var opt = {
   type: "basic",
   title: "Relax, Take a drink, Stretch your Body , Rest your Eyes",
-  message: "It's time to take a sip and Don't forget to Walk!!! Give a treat to your Body",
+  message: "It's time to take a sip and Don't forget to Walk!!! Give a treat to your Wonderful Body",
   iconUrl: "noteImage.png",
   requireInteraction: false
 }
