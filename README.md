@@ -1,21 +1,15 @@
 # WalkWithMe
-In this we are planning to make an application in which you need to just enter your name and the time when you start coding...
-It will track your everything and have  features like: 
+In this we are planning to develop a chrome extension which is basically designed with objective to increase the productivity of Now or Never by providing some external sources to refresh the mind along with reminder which reminds you for water intake.
+It will have features like: 
 
 
-1. Give you reminders after some particular time to:-
+1. Give you reminder after some particular time(which is set by you) to have a glass of water.
 
+2. It will also provide you the latest news of the world or your country based on your interest.
 
-    A. have some water(which we generally forget) 
+3. we also added a feature that sometimes we want to keep ourself distract from what we are currently doing and engage our mind in something else so we added puzzles.
 
-    B. Close your eyes for 5 min(give rest to them). 
+4. Another feature include a game which will definately refresh you. 
 
-    C. Puzzle time (in this we provide you some puzzles for instances like in sheet we have gfg puzzle) 
+5. we will extend it further by adding more features, one of them includes to track the website time from the time you press start till you press end and later provide you stats about of all your time.
 
-    D. It will also notify you after some time to read article or get informed about the world( related to your interest), we web                        scrap the topics like news, entertainment, article etc for you 
-
-    E. I know we all get bored after a time so get your mind out of any pressure or frustration we also provide you some game        links(small online games) , which definately refresh your mind.  
-
-
-
-2. Another important feature which we are thinking of is some window time tracker... We are not consistent in what we are doing and along with important things we open up whatsapp, Facebook, Netflix and all and later on think that we study for straight 5-6 hours. So this will help to record the time you spend on rach windows and later give you the track record that you open up that many windows and for that much time.
