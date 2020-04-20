@@ -1,9 +1,10 @@
 # WalkWithMe
 
-  ##**VIDEO DEMONSTRATION LINK**##
+  **VIDEO DEMONSTRATION LINK**
+  
  https://youtu.be/5vPkf3bfMuo
  
-  ##**WHAT IS THIS?**##
+  **WHAT IS THIS?**
   
 In this we are planning to develop a chrome extension which is basically designed with objective to increase the productivity of Now or Never by providing some external sources to refresh the mind along with reminder which reminds you for water intake.
 It will have features like: 
@@ -18,7 +19,7 @@ It will have features like:
 
 5. we will extend it further by adding more features, one of them includes to track the website time from the time you press start till you press end and later provide you stats about of all your time.
 
-   ##**HOW TO USE IT**##
+   **HOW TO USE IT**
 1) extract zip file by pressing clone or download button from the top of this repository.
 2) Open chrome . Go to extension.
 3) enable Developer Mode.
