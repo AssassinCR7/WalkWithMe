@@ -16,7 +16,7 @@ It will have features like:
 5. we will extend it further by adding more features, one of them includes to track the website time from the time you press start till you press end and later provide you stats about of all your time.
 
    ##**HOW TO USE IT**##
-1) extract zip file
+1) extract zip file by pressing clone or download button from the top of this repository.
 2) Open chrome . Go to extension.
 3) enable Developer Mode.
 4) After enabling , you will find few new bar at top.
