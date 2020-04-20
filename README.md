@@ -26,6 +26,7 @@ It will have features like:
 4) After enabling , you will find few new bar at top.
 5) Click on Load unpacked.
 6) it will open file explorer panel.
-7) navigate to Extracted Folder and load it.
-8) Now you will able to see extension icon at right of search/url bar in a chrome.
-9) Rest explore yourself, Make sure you are connected to Internet.
+7) navigate to Extracted Folder.
+8) find dummymodel folder which is subfolder of extracted folder and load it.
+9) Now you will able to see extension icon at right of search/url bar in a chrome.
+10) Rest explore yourself, Make sure you are connected to Internet.
