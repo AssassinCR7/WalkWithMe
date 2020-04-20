@@ -8,8 +8,8 @@ var noteType = "both";
 
 var opt = {
   type: "basic",
-  title: "Take A Drink",
-  message: "It's time to take a sip!",
+  title: "Relax, Take a drink, Stretch your Body , Rest your Eyes",
+  message: "It's time to take a sip and Don't forget to Walk!!! Give a treat to your Body",
   iconUrl: "noteImage.png",
   requireInteraction: false
 }
